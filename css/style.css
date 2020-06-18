@@ -1,0 +1,133 @@
+.top{
+  padding-top: 100px;
+  margin: 50px;
+  text-align: center;
+}
+.topheading{
+  margin: 0 auto 0 auto;
+  width: auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 500%  ;
+  color: #007892;
+}
+.contact_heading{
+  margin: 0 auto 0 auto;
+  width: auto;
+  font-family: 'Catamaran', cursive;
+  font-size: 200%  ;
+  color: #bc658d;
+  text-align: center;
+}
+
+.contact_body{
+  position: relative;
+  text-align: left;
+}
+.contact_1{
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+
+}
+body{
+  font-family: 'Catamaran', sans-serif;
+  background-color: #f5f5f5;
+  color: #bc658d;
+  font-weight: normal;
+
+
+}
+.bottomcloud{
+  position: absolute;
+  left: 300px;
+  border: 300px;
+}
+.topcloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+#bottomline{
+  text-align: center;
+  padding: none;
+  color: #f5f5f5;
+  position: relative;
+  font-size: 15px;
+
+}
+#top1{
+  font-size: 125%  ;
+  font-weight: bold;
+  color: #007892;
+}
+.middle{
+    line-height: 2;
+    width: 50%;
+    text-align: center;
+    position: relative;
+    margin: 100px auto 2px auto;
+}
+.bottom{
+  line-height: 2;
+  width: 50%;
+  text-align: center;
+  position: relative;
+  margin: 0 auto 0 auto;
+}
+.text1{
+  text-align: left;
+}
+hr{
+  border: dotted #007892 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 10px auto 10px auto;
+}
+.tablskills{
+  width: auto;
+  margin: auto;
+
+}
+.table1{
+  margin: auto;
+}
+.bottomcontainer{
+  margin-top: 55px;
+  background-color: #bc658d;
+  text-align: center;
+  padding: 25px 0 5px 0;
+  text-decoration: none;
+  font-size: 25px;
+}
+.footer-link{
+  font-family:'Catamaran', sans-serif;
+  text-decoration: none;
+
+}
+
+a:hover{
+  color: f5f5f5;
+}
+.myButton {
+	box-shadow:inset 0px 1px 6px 0px #91b8b3;
+	background:linear-gradient(to bottom, #db95b7 5%, #e05198 100%);
+	background-color:#db95b7;
+	border-radius:7px;
+	border:1px solid #354e8c;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Catamaran', sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	padding:13px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #81a19c;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #e05198 5%, #db95b7 100%);
+	background-color:#e05198;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
